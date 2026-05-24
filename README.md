@@ -1,0 +1,1 @@
+# bugday-hastaligi-tespiti
