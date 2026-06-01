@@ -1,0 +1,11 @@
+tensorflow==2.15.0
+scikit-learn==1.4.0
+streamlit==1.32.0
+Pillow==10.2.0
+numpy==1.26.4
+pandas==2.2.0
+matplotlib==3.8.2
+seaborn==0.13.2
+plotly==5.18.0
+shap==0.44.0
+kaggle==1.6.6
